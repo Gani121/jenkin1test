@@ -17,8 +17,8 @@ import org.testng.annotations.Test;
 
 public class App 
 {
-	@Test
-    public void main() throws Exception
+	
+    public static void main(String[] args) throws Exception
     {
         System.out.println( "Hello World!" );
         
